@@ -1,0 +1,27 @@
+{
+  "name": "azure-aspect-assembler",
+  "version": "0.3.1",
+  "description": "A lightweight library for assembling modular components of web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hastromancer/azure-aspect-assembler"
+  },
+  "keywords": [
+    "modular",
+    "components",
+    "web-application",
+    "assembler"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2",
+    "eventemitter3": "^4.0.7",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  }
+}
